@@ -32,7 +32,7 @@ Here's a suggested content structure for your README file based on the project:
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ragztigadi/SmartEstate-Predictor.git
+   git clone https://#########/.git
    cd SmartEstate-Predictor
    ```
 2. Install the required dependencies:
